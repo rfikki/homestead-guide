@@ -24,7 +24,7 @@ Examples of overly specific and technical documentation include:
 * ETHash, CASPER, ABI, RLP, or other technical specs.
 * Full API specs for protocols. Caveat: If an example, information, or tutorial needs to reference API calls for a client or interface in order to fulfill its example it is acceptable to reference the specific call. Be sure to make a reference where the user can find remaining pieces of the specific documentation that may be on the GitHub Wiki.
 
-Resources for Examplary Documentation
+Resources for Exemplary Documentation
 ===============================================================================
 
 Here are some examples of previous Ethereum documentation + good examples of documentation.
